@@ -1,0 +1,139 @@
+#Home{
+  margin-left: 900px;
+}
+.nav-link{
+  padding: 0 3% 0;
+}
+.nav-link:hover{
+  color: #F4AE5F;
+}
+.front{
+
+  width: 65%;
+  display: inline-block;
+}
+
+.intro-container{
+  width: 100%;
+}
+.heading{
+  padding-top: 3%;
+  width: 49%;
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 55px;
+  color: #0e234d;
+}
+.side-text{
+  padding-top: 3%;
+  width:50%;
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  vertical-align: top;
+}
+
+.side-text a{
+  align-items: center;
+  padding-top: 3%;
+}
+.buttonn{text-decoration:none; text-align:center;
+ padding:11px 32px;
+ border:solid 1px #004F72;
+
+ font:12px Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ color:#ffffff;
+ background:#0e234d;
+ -webkit-box-shadow:0px 0px 2px #ffffff, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #ffffff,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #ffffff, inset 0px 0px 1px #ffffff;
+
+  }.buttonn:hover{
+ padding:11px 32px;
+ border:solid 1px #ffffff;
+
+ font:12px Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ color:#ffffff;
+ background:#E2421E;
+ -webkit-box-shadow:0px 0px 2px #ffffff, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #ffffff,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #ffffff, inset 0px 0px 1px #ffffff;
+
+ }
+.read-more{
+  padding-top: 6%;
+  text-align: center;
+  letter-spacing:2.5px;
+  word-spacing: 5px;
+  font-size: 14px;
+
+}
+.new{
+  color:#fff;
+  background-color:#0e234d;
+  width: 27%;
+  display: inline-block;
+  vertical-align: top;
+  /* margin-top: 3%;
+  margin-bottom: 2%; */
+  /* margin-right: 5%; */
+  padding: 2% 4% 2%;
+  margin-left: 4%;
+}
+.container{
+  padding: 3% 7% 2%;
+  width: 100%;
+}
+.new h2{
+  color: #F4AE5F;
+}
+.new a{
+  color: #fff;
+  text-decoration: none;
+  text-decoration-color: #fff;
+}
+.new a:hover{
+  color: #F4AE5F;
+}
+
+.trio{
+  padding: 2% 7% 3%;
+  width: 100%;
+}
+.one {
+  display: inline-block;
+  width: 33%;
+}
+.two {
+  display: inline-block;
+  width: 33%;
+}
+.three{
+  display: inline-block;
+  width: 33%;
+}
+.trio-img{
+  width: 25%;
+  vertical-align: top;
+  display: inline-block;
+}
+.trio-text{
+  width:70%;
+  line-height: 14px;
+  display: inline-block;
+}
+.trio-text h3{
+  color:#CFD2CF;
+}
+.trio-text a{
+  text-decoration: none;
+  text-decoration-color: #fff;
+  color: #0e234d;
+}
+.trio-text h4:hover{
+  color: #F4AE5F;
+}
